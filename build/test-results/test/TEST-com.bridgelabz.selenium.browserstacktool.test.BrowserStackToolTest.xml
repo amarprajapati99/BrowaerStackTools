@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.browserstacktool.test.BrowserStackToolTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-29T15:40:10" hostname="DESKTOP-9TKB724" time="14.45">
+  <properties/>
+  <testcase name="test_login_page" classname="com.bridgelabz.selenium.browserstacktool.test.BrowserStackToolTest" time="14.45"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
